@@ -5,6 +5,7 @@
 
 * React-приложение для CRM/ERP-системы на действующем предприятии
 * WeatherApp: https://weatherapp-ilyasudakov.herokuapp.com/
+* SpotifyStatistics: https://spotify-stats-ilyasudakov.herokuapp.com/
 
 ## Связаться со мной
 
