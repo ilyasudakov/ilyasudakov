@@ -15,4 +15,4 @@
 
 * [ВКонтакте](https://vk.com/il.sudakov)
 * Почта: ilyasudakov@inbox.ru
-* [Резюме](https://my-resume-2.herokuapp.com/)
+* [Резюме](https://resume-ilyasudakov.herokuapp.com/)
