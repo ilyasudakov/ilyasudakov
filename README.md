@@ -5,7 +5,7 @@ Frontend developer, React
 
 * React-приложение для CRM/ERP-системы на действующем предприятии: [GitHub](https://github.com/ilyasudakov/CRM_frontend)
 
-* BasicReactBoilerplate (React 17 + Webpack 5 + SCSS + Jest/RTL) : [GitHub](https://github.com/ilyasudakov/basic-react-boilerplate)
+* Basic React Boilerplate (React 17 + Webpack 5 + SCSS + Jest/RTL) : [GitHub](https://github.com/ilyasudakov/basic-react-boilerplate)
      
 * WeatherApp (React + OpenWeather API): [Live](https://weatherapp-ilyasudakov.herokuapp.com/), [GitHub](https://github.com/ilyasudakov/weatherApp)
      
