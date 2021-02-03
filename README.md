@@ -1,9 +1,11 @@
 # Илья Судаков - @ilyasudakov
-Фронтенд-разработчик, React
+Frontend developer, React
 
-## Проекты
+## Projects
 
 * React-приложение для CRM/ERP-системы на действующем предприятии: [GitHub](https://github.com/ilyasudakov/CRM_frontend)
+
+* BasicReactBoilerplate (React 17 + Webpack 5 + SCSS + Jest/RTL) : [GitHub](https://github.com/ilyasudakov/basic-react-boilerplate)
      
 * WeatherApp (React + OpenWeather API): [Live](https://weatherapp-ilyasudakov.herokuapp.com/), [GitHub](https://github.com/ilyasudakov/weatherApp)
      
@@ -13,8 +15,8 @@
      
 * Ocean (React Three Fiber + Perlin 3D noise): [Live](https://ocean-ilyasudakov.herokuapp.com/), [GitHub](https://github.com/ilyasudakov/ThreeJS_test)
 
-## Связаться со мной
+## Contact me
 
-* [ВКонтакте](https://vk.com/il.sudakov)
-* Почта: ilyasudakov@inbox.ru
-* [Резюме](https://resume-ilyasudakov.herokuapp.com/)
+* [vk.com](https://vk.com/il.sudakov)
+* email: ilyasudakov@inbox.ru
+* [Resume](https://resume-ilyasudakov.herokuapp.com/)
