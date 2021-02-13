@@ -3,7 +3,7 @@ Frontend developer, React
 
 ## Projects
 
-* Frontend React App for CRM/ERP-system on a functioning factory: [GitHub](https://github.com/ilyasudakov/CRM_frontend)
+* Frontend React App for CRM/ERP-system for an industrial company: [GitHub](https://github.com/ilyasudakov/CRM_frontend)
 
 * react-base - Basic React Boilerplate (React 17 + Webpack 5 + SCSS + Jest/RTL) : [GitHub](https://github.com/ilyasudakov/basic-react-boilerplate)
      
