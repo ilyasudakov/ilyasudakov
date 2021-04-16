@@ -18,5 +18,4 @@ Frontend developer, React
 ## Contact me
 
 * email: ilyasudakov@inbox.ru
-* [resume](https://resume-ilyasudakov.herokuapp.com/)
 * [vkontakte](https://vk.com/il.sudakov)
