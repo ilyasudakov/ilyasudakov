@@ -20,4 +20,3 @@ You can view my resume [here](https://ilyasudakov.github.io/resume-project/) or 
 ## Contact me
 
 * email: ilyasudakov@inbox.ru
-* [vkontakte](https://vk.com/il.sudakov)
