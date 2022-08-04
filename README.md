@@ -1,7 +1,7 @@
 # Илья Судаков - @ilyasudakov
 Frontend developer, React
 
-You can view my resume [here](https://ilyasudakov.github.io/resume-project/) or [download it as PDF](https://drive.google.com/file/d/1ONZx1O9ax6Omrt9rMSWZNFjkKB6sl6fC/view?usp=sharing)
+You can view my resume [here](https://ilyasudakov.vercel.app) or [download it as PDF](https://drive.google.com/file/d/1ONZx1O9ax6Omrt9rMSWZNFjkKB6sl6fC/view?usp=sharing)
 
 ## Projects
 
