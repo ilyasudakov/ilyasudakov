@@ -11,7 +11,7 @@ You can view my [resume site](https://ilyasudakov.vercel.app), [portfolio as PDF
 
 * CMS Blog - Blog app built with NextJS, TypeScript, Tailwind - Auth, create your blog [Live](https://cms-blog-cyan.vercel.app), [Github](https://github.com/ilyasudakov/cms_blog)
 
-* Dev Hub - Home page for developers with todos, custom user links, Medium articles by interests. Made with React, Typescript, Redux, Redux-Toolkit, Tailwind [Live](https://devhub.ilyasudakov.vercel.app), [Github](https://github.com/ilyasudakov/devhub)
+* Dev Hub - Home page for developers with todos, custom user links, Medium articles by interests. Made with React, Typescript, Redux, Redux-Toolkit, Tailwind [Live](https://devhub.ilyasudakov.vercel.app), [Github](https://github.com/ilyasudakov/dev-hub)
 
 * TechStack - Select Github repos for your stack (TypeScript, Redux Toolkit, RTK Query, Tailwind) : [Github](https://github.com/ilyasudakov/tech-stack)
 
