@@ -1,6 +1,6 @@
 # Ilya Sudakov
 
-Technical writer / Frontend developer (React)
+Technical writer/Business Analyst, also a Frontend developer
 
 [Portfolio](https://ilyasudakov.github.io/portfolio/) | 
 [LinkedIn](https://www.linkedin.com/in/ilyasudakov) |
