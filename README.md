@@ -1,6 +1,6 @@
 # Ilya Sudakov
 
-Technical writer/Business Analyst, also a Frontend developer
+Technical writer/Junior PM, also a Frontend developer
 
 [Portfolio](https://ilyasudakov.github.io/monospace/en) | 
 [LinkedIn](https://www.linkedin.com/in/ilyasudakov) |
