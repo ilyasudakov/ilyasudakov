@@ -1,6 +1,6 @@
 # Ilya Sudakov
 
-Technical writer/Junior PM, also a Frontend developer
+Technical writer/Junior PM
 
 [Portfolio](https://ilyasudakov.github.io/monospace) | 
 [LinkedIn](https://www.linkedin.com/in/ilyasudakov) |
