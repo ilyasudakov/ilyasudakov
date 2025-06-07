@@ -1,6 +1,6 @@
-# Ilya Sudakov
+## Ilya Sudakov
 
-Technical writer/Junior PM
+Junior PM @ [Improvado](https://improvado.io)
 
 [Portfolio](https://ilyasudakov.github.io/monospace) | 
 [LinkedIn](https://www.linkedin.com/in/ilyasudakov) |
