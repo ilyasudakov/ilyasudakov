@@ -1,7 +1,3 @@
-## Ilya Sudakov
+Hi, my name is Ilya. I'm a product engineer @ [Improvado](https://improvado.io)
 
-PM @ [Improvado](https://improvado.io)
-
-[Portfolio](https://ilyasudakov.github.io/monospace) | 
-[LinkedIn](https://www.linkedin.com/in/ilyasudakov) |
-[Telegram](https://t.me/ilyasudakov)
+[website](https://ilyasudakov.github.io/monospace)  // [linkedin](https://www.linkedin.com/in/ilyasudakov)  // [telegram](https://t.me/ilyasudakov)
